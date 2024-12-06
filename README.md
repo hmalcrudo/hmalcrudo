@@ -1,5 +1,5 @@
 
-# Héctor's <img src="https://github.com/hmalcrudo/hmalcrudo/blob/main/img/happy-sootsprite.gif"> github profile 
+# Héctor's <img src="https://github.com/hmalcrudo/hmalcrudo/blob/main/img/happy-sootsprite.gif"> <sub>github profile  </sub>
 
 
 <img src="https://github.com/hmalcrudo/hmalcrudo/blob/main/img/floppy.png"><img src="https://github.com/hmalcrudo/hmalcrudo/blob/main/img/soot-sprites.gif"><img src="https://github.com/hmalcrudo/hmalcrudo/blob/main/img/win3-computer.png" width=75px>
