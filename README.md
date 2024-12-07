@@ -31,7 +31,9 @@
 |🔧|<sub> ![Static Badge](https://img.shields.io/badge/Git-222222?style=flat&logo=git&labelColor=) ![Static Badge](https://img.shields.io/badge/GitHub-222222?style=flat&logo=github) ![Static Badge](https://img.shields.io/badge/Markdown-222222?style=flat&logo=markdown)</sub>|
 |------|--------|
 
-
+```java
+println("What came first? the developer or the bug?")
+```
 
 
 
