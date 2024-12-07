@@ -1,7 +1,7 @@
 
 # Héctor's <img src="https://github.com/hmalcrudo/hmalcrudo/blob/main/img/happy-sootsprite.gif"> <sub>github profile  </sub>
 
-![Héctor Martínez](https://github.com/user-attachments/assets/41cacfa3-117b-49f6-9cf5-8180a110abe0)
+<img src="https://github.com/hmalcrudo/hmalcrudo/blob/main/img/floppy.png"><img src="https://github.com/hmalcrudo/hmalcrudo/blob/main/img/soot-sprites.gif"><img src="https://github.com/hmalcrudo/hmalcrudo/blob/main/img/win3-computer.png" width=75px>
 
 
 
